@@ -1,2 +1,2 @@
 # MushiScripts
-Conan exiles mushi script
+Conan exiles mushi scripts
